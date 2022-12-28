@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c8a5904-9c14-47d0-a105-88f21d9e6d1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Curso de Java do Paulo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 7 - Orientação a Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteAbstrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstrato.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/PessoaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaA/Ana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaA/Paulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaB/Julia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaB/Pedro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/Direcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/Monstro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Esportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Luxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/teste/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../heranca/teste/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Section 7 - Orientação a Objetos/Section 7 - Orientação a Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Arroz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Feijao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polimorfismo/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/Section7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/untitled/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2JXe85Q5OKdGFy1a9toi8xynZ89" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TesteAbstrato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstrato.TesteAbstrato" />
+      <module name="abstrato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstrato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteAbstrato" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8a5904-9c14-47d0-a105-88f21d9e6d1d" name="Changes" comment="" />
+      <created>1672228692609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672228692609</updated>
+      <workItem from="1672228693922" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
