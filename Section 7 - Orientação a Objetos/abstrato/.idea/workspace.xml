@@ -5,59 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c8a5904-9c14-47d0-a105-88f21d9e6d1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/Curso de Java do Paulo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 7 - Orientação a Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteAbstrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstrato.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/PessoaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaA/Ana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaA/Paulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaB/Julia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../encapsulamento/casaB/Pedro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/Direcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/Monstro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Civic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Esportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/desafio/Luxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/teste/CarroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../heranca/teste/Jogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Section 7 - Orientação a Objetos/Section 7 - Orientação a Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Arroz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Feijao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../polimorfismo/Sorvete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/Section7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7/Section7/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
