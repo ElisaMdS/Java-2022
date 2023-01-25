@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee0cd5c6-d570-4d9d-91cb-4347f90e3128" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 8 - Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Multiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorUnario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PredicadoComposicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Somar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Trabalho1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section 7 - Orientação a Objetos/abstrato/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 7 - Orientação a Objetos/abstrato/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JXkGfN8jGxgQGEqbIp5n8ldcyq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/elisa/Desktop/Scala Exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee0cd5c6-d570-4d9d-91cb-4347f90e3128" name="Changes" comment="" />
+      <created>1672231726262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672231726262</updated>
+      <workItem from="1672231727639" duration="3457000" />
+      <workItem from="1672409405953" duration="7050000" />
+      <workItem from="1672676902452" duration="7375000" />
+      <workItem from="1672742799541" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
